@@ -1,1 +1,1 @@
-# prolog-assignments
+### Some simple prolog assignments
