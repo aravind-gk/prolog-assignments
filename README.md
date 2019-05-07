@@ -1,1 +1,1 @@
-### Some simple prolog assignments
+### Some simple prolog programs
